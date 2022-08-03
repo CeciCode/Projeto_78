@@ -1,9 +1,9 @@
 var imgs= ["bruno blox.jpg", "helo xd.jpg", "cicitoys blox.jpg"];
 var names= ["Bruno", "Heloisa", "Cecilia"];
+var i= 0;
 function proximo(){
-    var i= 0;
     i++;
-    var no= 2
+    var no= 2;
     if (i > no){
         i= 0
     }
